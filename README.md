@@ -7,6 +7,17 @@
 </table>
 
 </br>
-<h2 align = "center">👻💚Check my website!💚👻 <br/></h2>
-<h4 align = "center" text-decoration-line: none>✨https://yoojin95.github.io/✨</h4>
+<table>
+      <tr>
+            <td>
+                   <h2>👻💚My website💚👻 <br/></h2>
+                   <h4 text-decoration-line: none>✨https://yoojin95.github.io/✨</h4>
+            </td>
+            <td>
+                  <h2>👻💚My projects💚👻 <br/></h2>
+                  <h4>will be updated</h4>
+            </td>
+      </tr>
+   
+</table>
 
