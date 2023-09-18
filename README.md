@@ -1,3 +1,4 @@
+<h2 align = "center">🐰🧡About Me🧡🐰<br/></h2>
 <table>
       <tr>
             <td><img src="https://github.com/Yoojin95/Yoojin95/assets/139936425/89e26e1b-1e03-404e-9be0-19607207f1ea" alt="Yoojin Lee" /></td>
