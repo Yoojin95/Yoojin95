@@ -1,10 +1,9 @@
-### Hi there 👋
 <section id="top" class="top-section">
       <div class="top-content">
-        <img src="![Yoojin](https://github.com/Yoojin95/Yoojin95/assets/139936425/ce54caf6-01ac-4f99-a6e1-55a27699b0e7)" alt="Yoojin Lee" />
-        <h1>Web Developer to be</h1>
+        <img src="https://github.com/Yoojin95/Yoojin95/assets/139936425/36524045-e7a6-40e9-a4dd-289b8f68302c" alt="Yoojin Lee" />
         <p>
-          Hey, there! I'm Yoojin Lee, <br />an enthusiastic future web developer
+          Hey, there! 👋 <br/>
+          I'm Yoojin Lee, an enthusiastic future web developer
           with a passion for crafting captivating online experiences. <br />With
           a solid grasp of HTML, CSS, and JavaScript, I'm committed to building
           user-friendly and visually appealing websites. <br />I relish
