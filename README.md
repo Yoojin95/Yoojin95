@@ -1,7 +1,7 @@
 ### Hi there 👋
 <section id="top" class="top-section">
       <div class="top-content">
-        <img src="/Yoo" alt="Yoojin Lee" />
+        <img src="![Yoojin](https://github.com/Yoojin95/Yoojin95/assets/139936425/ce54caf6-01ac-4f99-a6e1-55a27699b0e7)" alt="Yoojin Lee" />
         <h1>Web Developer to be</h1>
         <p>
           Hey, there! I'm Yoojin Lee, <br />an enthusiastic future web developer
