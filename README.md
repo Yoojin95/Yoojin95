@@ -5,5 +5,7 @@
       </tr>
 </table>
 
-Check my website!   
-https://yoojin95.github.io/
+</br>
+<h2 align = "center">👻💚Check my website!💚👻 <br/></h2>
+<h4 align = "center" text-decoration-line: none>✨https://yoojin95.github.io/✨</h4>
+
