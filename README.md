@@ -4,8 +4,6 @@
         <p>
           Hey, there! 👋 <br/>
         </p>
-        <a href="your-resume.pdf" download class="resume-link">Resume</a>
-        <a href="#contact" class="contact-link">Contact Me</a>
       </div>
     </section>
     
